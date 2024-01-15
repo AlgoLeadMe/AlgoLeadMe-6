@@ -23,3 +23,16 @@ def solution(phone_book):
         if phone_book[i]==phone_book[i+1][:len(phone_book[i])]:
             return False
     return True
+
+# hash를 이용
+def solution(phone_book):
+    hash = {}
+    for i in phone_book:
+        hash[i] = 1
+    for i in phone_book:
+        result = ""
+        for j in i:
+            result += j
+            if result in hash and result != i:
+                return False
+    return True
