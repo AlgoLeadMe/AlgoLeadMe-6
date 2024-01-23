@@ -1,0 +1,1 @@
+print(str(1)+'\n'+str(0))

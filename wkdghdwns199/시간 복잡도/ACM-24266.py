@@ -1,0 +1,1 @@
+print(str(int(input()) ** 3)+'\n'+'3')
