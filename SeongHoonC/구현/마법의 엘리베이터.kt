@@ -1,4 +1,4 @@
-class Solution {
+class `마법의 엘리베이터` {
     fun solution(storey: Int): Int {
         var number = storey
         var count = 0
