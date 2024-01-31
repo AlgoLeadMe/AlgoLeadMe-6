@@ -5,3 +5,5 @@
 | 1차시 | 2024.01.15 |  해시  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577?language=python3">전화번호 목록</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/1 |
 | 2차시 | 2024.01.18 |  해시  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578">의상</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/5 |
 | 3차시 | 2024.01.21 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258712">가장 많이 받은 선물</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/8 |
+| 4차시 | 2024.01.24 |  BFS  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/250136">석유 시추</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/10 |
+| 5차시 | 2024.01.27 |  이분탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43238">입국심사</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/14 |
