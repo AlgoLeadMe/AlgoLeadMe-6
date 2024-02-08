@@ -8,3 +8,4 @@
 | 4차시 | 2024.01.24 |  BFS  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/250136">석유 시추</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/10 |
 | 5차시 | 2024.01.27 |  이분탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43238">입국심사</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/14 |
 | 6차시 | 2024.01.30 |  그리디  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150369">택배 배달과 수거하기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/17 |
+| 7차시 | 2024.02.08 |  스택/큐  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">올바른 괄호</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/22 |
