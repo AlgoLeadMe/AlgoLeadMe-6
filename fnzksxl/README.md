@@ -7,4 +7,5 @@
 | 3차시 | 2024-01-24 | 그리디 | [소트](https://www.acmicpc.net/problem/1083) | [#15](https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/15) |
 | 4차시 | 2024-01-31 | 그리디 | [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) | [#19](https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/19) |
 | 5차시 | 2024-02-06 | 다익스트라 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | [#21](https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/21) |
+| 6차시 | 2024-02-14 | DP | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | [#28](https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/28)
 ---
