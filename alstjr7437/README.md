@@ -11,3 +11,5 @@
 | 7차시 | 2024.02.08 |  스택  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">올바른 괄호</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/22 |
 | 8차시 | 2024.02.14 |  DP  | <a href="https://www.acmicpc.net/problem/12865">평범한 배낭</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/24 |
 | 9차시 | 2024.02.17 |  그리디  | <a href="https://www.acmicpc.net/problem/2138">전구와 스위치</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/29 |
+| 10차시 | 2024.02.20 |  BFS/DFS  | <a href="https://www.acmicpc.net/problem/11725">전구와 스위치</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/33 |
+
