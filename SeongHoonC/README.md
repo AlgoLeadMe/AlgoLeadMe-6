@@ -8,4 +8,6 @@
 | 4차시 | 2024.01.24 | 구현 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/148653#">마법의 엘리베이터</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/11 |
 | 5차시 | 2024.01.27 | 그리디 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/172927">광물 캐기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/13 |
 | 6차시 | 2024.02.05 | 큐/스택 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587"></a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/20 |
+| 7차시 | 2024.02.08 | DP | <a href="https://www.acmicpc.net/problem/1932"></a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/23 |
+| 8차시 | 2024.02.14 | 정렬 | <a href="https://www.acmicpc.net/problem/18870"></a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/26 |
 ---
