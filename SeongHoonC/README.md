@@ -10,4 +10,5 @@
 | 6차시 | 2024.02.05 | 큐/스택 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587"></a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/20 |
 | 7차시 | 2024.02.08 | DP | <a href="https://www.acmicpc.net/problem/1932"></a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/23 |
 | 8차시 | 2024.02.14 | 정렬 | <a href="https://www.acmicpc.net/problem/18870"></a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/26 |
+| 9차시 | 2024.02.21 | bfs | <a href="https://www.acmicpc.net/problem/21736"></a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/35 |
 ---
