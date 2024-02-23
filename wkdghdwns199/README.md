@@ -9,3 +9,5 @@
 | 5차시 | 2024.02.14 |  약수, 배수와 소수 |  <a href="https://www.acmicpc.net/problem/17103">다음 소수</a>  | <a href="">2024.02.14</a> |
 | 6차시 | 2024.02.16 |  약수, 배수와 소수 |  <a href="https://www.acmicpc.net/problem/13909">창문 닫기</a>  | <a href="">2024.02.16</a> |
 
+| 8차시 | 2024.02.16 |  스택, 큐, 덱 |  <a href="https://www.acmicpc.net/problem/12789">도키도키 간식드리미</a>  | <a href="">2024.02.16</a> |
+
