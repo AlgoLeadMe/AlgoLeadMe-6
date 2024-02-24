@@ -3,15 +3,21 @@ order_list = list(map(int, input().split()))
 order = 1
 stack = []
 
-for student in order_list :
-    if student > order :
-        stack.append(student)
-    elif student == order :
-        order+=1
+# 5 4 2 3 1
 
-while len(stack) !=0 :
-    if len(stack) == 1 or stack[len(stack)-2] > stack[len(stack)-1] : 
-        stack.pop()
-    else : break
+while order_list :
+    if order_list[0] == order:
+        order_list.pop(0)
+        order+=1
+    else :
+        stack.append(order_list.pop(0))
+    
+    while stack :
+        if stack[-1] == order:
+            stack.pop()
+            order +=1
+        else :
+            break
+    
 
 print('Nice') if len(stack)==0 else print('Sad')
