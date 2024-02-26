@@ -14,5 +14,3 @@
 | 10차시 | 2024.02.20 |  BFS/DFS  | <a href="https://www.acmicpc.net/problem/11725">트리의 부모 찾기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/33 |
 | 11차시 | 2024.02.23 |  해시  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579">베스트 앨범</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/39 |
 | 12차시 | 2024.02.26 |  BFS  | <a href="https://www.acmicpc.net/problem/3197">백조의 호수</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/41 |
-
-
