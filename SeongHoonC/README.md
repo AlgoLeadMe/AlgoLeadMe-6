@@ -11,5 +11,6 @@
 | 7차시 | 2024.02.08 | DP | <a href="https://www.acmicpc.net/problem/1932"></a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/23 |
 | 8차시 | 2024.02.14 | 정렬 | <a href="https://www.acmicpc.net/problem/18870"></a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/26 |
 | 9차시 | 2024.02.21 | bfs | <a href="https://www.acmicpc.net/problem/21736"></a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/35 |
-| 9차시 | 2024.02.23 | 그리디 | <a href="https://www.acmicpc.net/problem/1931"></a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/38 |
+| 10차시 | 2024.02.23 | 그리디 | <a href="https://www.acmicpc.net/problem/1931"></a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/38 |
+| 11차시 | 2024.02.26 | 재귀 | <a href="https://www.acmicpc.net/problem/1074"></a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/40 |
 ---
