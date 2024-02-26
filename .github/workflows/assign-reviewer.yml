@@ -16,5 +16,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           reviewers: SeongHoonC, fnzksxl, wkdghdwns199, alstjr7437
           assignees: ${{ github.event.pull_request.user.login }}
-          includeLabels: 리뷰 기다리는 중
-          excludeLabels: 작성 중
+          includeLabels: 리뷰 기다리는 중 🔥
+          excludeLabels: 작성 중 ⏱️
