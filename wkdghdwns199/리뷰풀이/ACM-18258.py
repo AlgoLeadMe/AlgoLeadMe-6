@@ -20,4 +20,6 @@ for _ in range(N):
     elif 'back' == _str[0] :
         if len(queue) == 0 : print(-1)
         else : print(queue[len(queue)-1])
+
+    queue.pop(0)
         
