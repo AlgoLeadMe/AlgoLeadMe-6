@@ -12,4 +12,4 @@
 | 8차시 | 2024.02.23 |  스택, 큐, 덱 |  <a href="https://www.acmicpc.net/problem/12789">도키도키 간식드리미</a>  | <a href="">2024.02.23</a> |
 | 9차시 | 2024.02.26 |  스택, 큐, 덱 |  <a href="https://www.acmicpc.net/problem/2346">풍선 터뜨리기</a>  | <a href="">2024.02.26</a> |
 | 10차시 | 2024.02.29 |  스택, 큐, 덱 |  <a href="https://www.acmicpc.net/problem/18258">큐 2</a>  | <a href="">2024.02.29</a> |
-
+| 11차시 | 2024.03.03 |  스택, 큐, 덱 |  <a href="https://www.acmicpc.net/problem/11866">요세푸스 문제 0</a>  | <a href="">2024.03.03</a> |
