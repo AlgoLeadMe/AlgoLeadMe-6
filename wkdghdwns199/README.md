@@ -13,3 +13,4 @@
 | 9차시 | 2024.02.26 |  스택, 큐, 덱 |  <a href="https://www.acmicpc.net/problem/2346">풍선 터뜨리기</a>  | <a href="">2024.02.26</a> |
 | 10차시 | 2024.02.29 |  스택, 큐, 덱 |  <a href="https://www.acmicpc.net/problem/18258">큐 2</a>  | <a href="">2024.02.29</a> |
 | 11차시 | 2024.03.03 |  스택, 큐, 덱 |  <a href="https://www.acmicpc.net/problem/11866">요세푸스 문제 0</a>  | <a href="">2024.03.03</a> |
+| 12차시 | 2024.03.06 | DP |  <a href="https://www.acmicpc.net/problem/1010">다리 놓기</a>  | <a href="">2024.03.06</a> |
