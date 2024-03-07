@@ -11,4 +11,5 @@
 | 7차시 | 2024-02-18 | 그리디 | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | [#30](https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/30) |
 | 8차시 | 2024-02-20 | DP | [동전1](https://www.acmicpc.net/problem/2293) | [#32](https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/32) |
 | 9차시 | 2024-02-23 | 그래프 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | [#37](https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/37) |
+| 10차시 | 2024-03-07 | 구현 | [나무 재테크](https://www.acmicpc.net/problem/16235) | [#52](https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/52) |
 ---
