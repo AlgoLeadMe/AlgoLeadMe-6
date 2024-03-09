@@ -11,8 +11,7 @@ for _ in range(t):
         heappush(heap, i)
     
     while len(heap) > 1 :
-        temp = 0
-        temp += heappop(heap) + heappop(heap)
+        temp = heappop(heap) + heappop(heap)
         heappush(heap, temp)
         answer += temp
     print(answer)
