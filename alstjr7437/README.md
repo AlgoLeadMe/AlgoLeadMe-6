@@ -15,3 +15,5 @@
 | 11차시 | 2024.02.23 |  해시  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579">베스트 앨범</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/39 |
 | 12차시 | 2024.02.26 |  BFS  | <a href="https://www.acmicpc.net/problem/3197">백조의 호수</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/41 |
 | 13차시 | 2024.02.29 |  DP  | <a href="https://www.acmicpc.net/problem/10844">쉬운 계단 수</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/42 |
+| 14차시 | 2024.03.03 |  브루트포스  | <a href="https://www.acmicpc.net/problem/18111">마인크래프트</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/48 |
+| 15차시 | 2024.03.09 |  우선순위 큐  | <a href="https://www.acmicpc.net/problem/13975">파일 합치기3</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/53 |
