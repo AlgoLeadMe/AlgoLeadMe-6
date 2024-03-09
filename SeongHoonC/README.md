@@ -16,4 +16,5 @@
 | 12차시 | 2024.02.29 | 분할정복 | <a href="https://www.acmicpc.net/problem/2630"></a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/45 |
 | 13차시 | 2024.03.03 | bfs | <a href="https://www.acmicpc.net/problem/14940"></a> |https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/49 |
 | 14차시 | 2024.03.06 | dfs | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064"></a> |https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/50 |
+| 15차시 | 2024.03.09 | 분할정복 | <a href="https://www.acmicpc.net/problem/1629"></a> |https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/55 |
 ---
