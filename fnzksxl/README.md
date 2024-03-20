@@ -14,4 +14,5 @@
 | 10차시 | 2024-03-07 | 구현 | [나무 재테크](https://www.acmicpc.net/problem/16235) | [#52](https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/52) |
 | 11차시 | 2024-03-10 | 투포인터 | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | [#56](https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/56) |
 | 12차시 | 2024-03-13 | 벨만포드 | [타임머신](https://www.acmicpc.net/problem/11657) | [#](https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/58) |
+| 13차시 | 2024-03-20 | 다익스트라 | [서강그라운드](https://www.acmicpc.net/problem/14938) | [#64](https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/64) |
 ---
