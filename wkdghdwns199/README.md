@@ -15,3 +15,4 @@
 | 11차시 | 2024.03.03 |  스택, 큐, 덱 |  <a href="https://www.acmicpc.net/problem/11866">요세푸스 문제 0</a>  | <a href="">2024.03.03</a> |
 | 12차시 | 2024.03.06 | DP |  <a href="https://www.acmicpc.net/problem/1010">다리 놓기</a>  | <a href="">2024.03.06</a> |
 | 13차시 | 2024.03.09 | DP |  <a href="https://www.acmicpc.net/problem/1932">정수 삼각형</a>  | <a href="">2024.03.09</a> |
+| 16차시 | 2024.03.23 | 조합론 |  <a href="https://www.acmicpc.net/problem/11050">이항 계수 1 </a>  | <a href="">2024.03.23</a> |
