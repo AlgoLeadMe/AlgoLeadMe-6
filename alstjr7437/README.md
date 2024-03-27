@@ -17,3 +17,4 @@
 | 13차시 | 2024.02.29 |  DP  | <a href="https://www.acmicpc.net/problem/10844">쉬운 계단 수</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/42 |
 | 14차시 | 2024.03.03 |  브루트포스  | <a href="https://www.acmicpc.net/problem/18111">마인크래프트</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/48 |
 | 15차시 | 2024.03.09 |  우선순위 큐  | <a href="https://www.acmicpc.net/problem/13975">파일 합치기3</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/53 |
+| 16차시 | 2024.03.13 |  정렬  | <a href="https://www.acmicpc.net/problem/2170">선 긋기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/57 |
