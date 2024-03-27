@@ -17,4 +17,5 @@
 | 13차시 | 2024.03.09 | DP |  <a href="https://www.acmicpc.net/problem/1932">정수 삼각형</a>  | <a href="">2024.03.09</a> |
 | 14차시 | 2024.03.13 | 집합과 맵 |  <a href="https://www.acmicpc.net/problem/20920">영단어 암기는 괴로워</a>  | <a href="">2024.03.13</a> |
 | 15차시 | 2024.03.20 | 우선순위 큐 |  <a href="https://www.acmicpc.net/problem/11286">절댓값 힙</a>  | <a href="">2024.03.20</a> |
+| 16차시 | 2024.03.23 | 조합론 |  <a href="https://www.acmicpc.net/problem/11050">이항 계수 1 </a>  | <a href="">2024.03.23</a> |
 
