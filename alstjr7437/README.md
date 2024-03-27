@@ -20,3 +20,4 @@
 | 16차시 | 2024.03.13 |  정렬  | <a href="https://www.acmicpc.net/problem/2170">선 긋기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/57 |
 | 17차시 | 2024.03.16 |  DP  | <a href="https://www.acmicpc.net/problem/2228">구간 나누기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/61 |
 | 18차시 | 2024.03.23 |  다익스트라  | <a href="https://www.acmicpc.net/problem/1753">최단 경로</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/66 |
+| 19차시 | 2024.03.27 |  문자열  | <a href="https://www.acmicpc.net/problem/5525">IOIOI</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/67 |
