@@ -18,4 +18,6 @@
 | 14차시 | 2024.03.06 | dfs | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064"></a> |https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/50 |
 | 15차시 | 2024.03.09 | 분할정복 | <a href="https://www.acmicpc.net/problem/1629"></a> |https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/55 |
 | 16차시 | 2024.03.14 | 누적합 | <a href="https://www.acmicpc.net/problem/11659"></a> |https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/60 |
+| 17차시 | 2024.03.17 | 특정한 최단 경로 | <a href="https://www.acmicpc.net/problem/1504"></a> |https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/62 |
+| 18차시 | 2024.03.28 | 구현 | <a href="https://www.acmicpc.net/problem/16234"></a> |https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/70 |
 ---
