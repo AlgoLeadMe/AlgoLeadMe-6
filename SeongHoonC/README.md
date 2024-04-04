@@ -20,4 +20,5 @@
 | 16차시 | 2024.03.14 | 누적합 | <a href="https://www.acmicpc.net/problem/11659"></a> |https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/60 |
 | 17차시 | 2024.03.17 | 특정한 최단 경로 | <a href="https://www.acmicpc.net/problem/1504"></a> |https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/62 |
 | 18차시 | 2024.03.28 | 구현 | <a href="https://www.acmicpc.net/problem/16234"></a> |https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/70 |
+| 19차시 | 2024.04.04 | 그리디 | <a href="https://www.acmicpc.net/problem/16496"></a> |https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/72 |
 ---
