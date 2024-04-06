@@ -10,7 +10,7 @@ fun main() {
 
     // 비용의 최대는 100 * 100 이다
     val dp = Array(n + 1) { Array(MAX_COST + 1) { 0 } }
-    val bites = listOf(0) + br.readLine().split(" ").map { it.toInt() }
+    val bytes = listOf(0) + br.readLine().split(" ").map { it.toInt() }
     val cost = listOf(0) + br.readLine().split(" ").map { it.toInt() }
 
     var minCost = Int.MAX_VALUE
@@ -22,7 +22,7 @@ fun main() {
                 continue
             }
             // 담을 수 있다면 현재 비용 - 앱의 비용 최적값에 얻을 수 있는 용량 더하기
-            dp[i][j] = max(dp[i - 1][j], dp[i - 1][j - cost[i]] + bites[i])
+            dp[i][j] = max(dp[i - 1][j], dp[i - 1][j - cost[i]] + bytes[i])
 
             // 목표 용량을 넘었다면 정답 최소값 업데이트
             if (dp[i][j] >= m) {
