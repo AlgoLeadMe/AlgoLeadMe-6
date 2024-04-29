@@ -19,4 +19,5 @@
 | 15차시 | 2024.03.20 | 우선순위 큐 |  <a href="https://www.acmicpc.net/problem/11286">절댓값 힙</a>  | <a href="">2024.03.20</a> |
 | 16차시 | 2024.03.23 | 조합론 |  <a href="https://www.acmicpc.net/problem/11050">이항 계수 1 </a>  | <a href="">2024.03.23</a> |
 | 17차시 | 2024.03.27 | DP |  <a href="https://www.acmicpc.net/problem/9184">신나는 함수 실행</a>  | <a href="">2024.03.27</a> |
+| 18차시 | 2024.04.03 | 집합과 맵 |  <a href="https://www.acmicpc.net/problem/26069">절댓값 힙</a>  | <a href="">2024.04.03</a> |
 
