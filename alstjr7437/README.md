@@ -23,3 +23,4 @@
 | 19차시 | 2024.03.27 |  문자열  | <a href="https://www.acmicpc.net/problem/5525">IOIOI</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/67 |
 | 20차시 | 2024.04.03 |  BFS  | <a href="https://www.acmicpc.net/problem/1697">숨바꼭질</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/70 |
 | 22차시 | 2024.04.13 |  BFS  | <a href="https://www.acmicpc.net/problem/11724">연결 요소의 개수</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/78 |
+| 23차시 | 2024.05.01 |  큐  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">프로세스</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/79 |
