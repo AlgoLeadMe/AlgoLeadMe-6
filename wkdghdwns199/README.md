@@ -21,5 +21,5 @@
 | 17차시 | 2024.03.27 | DP |  <a href="https://www.acmicpc.net/problem/9184">신나는 함수 실행</a>  | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/68">2024.03.27</a> |
 | 18차시 | 2024.04.03 | 집합과 맵 |  <a href="https://www.acmicpc.net/problem/26069">절댓값 힙</a>  | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/73">2024.04.03</a> |
 | 19차시 | 2024.04.07 | 조합론 |  <a href="https://www.acmicpc.net/problem/25192">인사성 밝은 곰곰이</a>  | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/76">2024.04.07</a> |
-| 21차시 | 2024.05.05 | 그리디 |  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42860">인사성 밝은 곰곰이</a>  | <a href="">2024.04.07</a> |
+| 21차시 | 2024.05.05 | 그리디 |  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42860">조이스틱</a>  | <a href="">2024.04.07</a> |
 
