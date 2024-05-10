@@ -8,6 +8,7 @@ result = 0
 
 for _ in range(m):
     cmd = input().split()
+    print(result)
 
     if cmd[0] == "add":
         result |= (1 << int(cmd[1]))
